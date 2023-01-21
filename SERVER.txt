@@ -1,0 +1,3 @@
+https://sgp1.blynk.cloud/external/api/update?token=Qu3OUzhKSCLcZ44rdCPebb1RLh1OzAF4&D5=1
+
+https://sgp1.blynk.cloud/external/api/update?token=Qu3OUzhKSCLcZ44rdCPebb1RLh1OzAF4&D5=0
